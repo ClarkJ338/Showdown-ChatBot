@@ -13,7 +13,7 @@
 
 exports.setup = function () {
 	const BattleModule = Object.create(null);
-	BattleModule.id = "competitive";
+	BattleModule.id = "randomsw";
 
 	// Store battle history for prediction
 	let battleHistory = {
