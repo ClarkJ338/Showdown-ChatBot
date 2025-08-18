@@ -7,7 +7,7 @@
 
 exports.setup = function () {
 	const BattleModule = Object.create(null);
-	BattleModule.id = "competitive";
+	BattleModule.id = "randomsw";
 
 	// Track recent decisions to prevent spamming
 	let recentDecisions = [];
